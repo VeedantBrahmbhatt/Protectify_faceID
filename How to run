@@ -1,0 +1,9 @@
+Code provided in the repository uses siamese model to calulate distance between the captured images by capture_to_predict.py 
+Here image to compre is 21BCP118photo.jpg. Distance of the user is calculated by lambda function defined in the model.
+
+Replace your image with the image of 21BCP118photo.jpg, train the model in supervised learning faashion providing the authenticated user photos and non authenticated user photos too.
+Set your target in the main code and run it for checking the output locally. 
+
+Now your code is ready to function on the accsess functionality of Volume hand control. set your constant monitoring time as needed in the appropriate code snippet. 
+
+
